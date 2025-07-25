@@ -763,7 +763,7 @@ const ChartDisplay = ({ isVisible }) => {
 
         return newData;
       });
-    }, 30000);
+    }, 300);
 
     return () => clearInterval(interval);
   }, [isPaused, deviceTemp, weatherData, batteryData]);
