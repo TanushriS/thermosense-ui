@@ -693,7 +693,7 @@ const ChartDisplay = ({ isVisible }) => {
         options: {
           responsive: true,
           maintainAspectRatio: false,
-          animation: { duration: 750 },
+          animation: { duration: 70 },
           plugins: { legend: { display: false } },
           scales: {
             y: {
@@ -870,6 +870,13 @@ const AIAdvisory = ({ isVisible, healthData }) => {
     setCustomResult({
       riskLevel,
       recommendation,
+
+
+
+
+
+
+      
       actionItems,
       impact: riskLevel === 'high' ? 'High risk of permanent damage' : 
               riskLevel === 'medium' ? 'Moderate impact on battery health' : 
