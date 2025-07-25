@@ -693,7 +693,7 @@ const ChartDisplay = ({ isVisible }) => {
         options: {
           responsive: true,
           maintainAspectRatio: false,
-          animation: { duration: 70 },
+          animation: { duration: 750 },
           plugins: { legend: { display: false } },
           scales: {
             y: {
