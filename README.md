@@ -2,7 +2,7 @@
 
 ThermoSense is a real-time React-based battery health monitoring tool integrated with a machine learning API powered by FastAPI and GPT-2. It intelligently predicts battery stress levels based on sensor data and gives safety advice for your device.
 
-![Dashboard](https://github.com/TanushriS/thermosense/blob/main/assets/dashboard.png?raw=true)
+![Dashboard](https://github.com/TanushriS/assets/blob/main/dashboard.png)
 
 ---
 
@@ -58,13 +58,13 @@ ThermoSense is a real-time React-based battery health monitoring tool integrated
 ## 🖼️ Screenshots
 
 ### 📊 Dashboard
-![Live Dashboard](https://github.com/TanushriS/thermosense/blob/main/assets/dashboard.png?raw=true)
+![Live Dashboard](https://github.com/TanushriS/assets/blob/main/dashboard.png)
 
 ### 📈 Real-Time Chart
-![Chart](https://github.com/TanushriS/thermosense/blob/main/assets/chart.png?raw=true)
+![Chart](https://github.com/TanushriS/assets/blob/main/chart%20views.png)
 
 ### 🚨 Alerts
-![Alerts](https://github.com/TanushriS/thermosense/blob/main/assets/alerts.png?raw=true)
+![Alerts](https://github.com/TanushriS/assets/blob/main/alerts.png)
 
 ---
 
