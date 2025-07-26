@@ -1,7 +1,10 @@
 # 🔋 ThermoSense – Battery Health Monitoring & Advisory System
 
 ThermoSense is a real-time React-based battery health monitoring tool integrated with a machine learning API powered by FastAPI and GPT-2. It intelligently predicts battery stress levels based on sensor data and gives safety advice for your device.
+### 📡 Line Link 
+👉 [https://thermosense.com](https://thermosense-ui-psi.vercel.app/)
 
+### 🖥️ Dashboard
 ![Dashboard](https://github.com/TanushriS/assets/blob/main/dashboard.png)
 
 ---
