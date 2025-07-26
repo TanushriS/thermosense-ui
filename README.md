@@ -128,12 +128,7 @@ No build setup needed. Simply open `index.html` in your browser or deploy to Ver
 
 ---
 
-## 🤝 Contributors
 
-- **@iRajVerma** – ML and GPT-2 integration
-- **@TanushriS** – UI, alerts, testing, deployment
-
----
 
 ## 📄 License
 
